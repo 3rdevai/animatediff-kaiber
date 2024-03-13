@@ -1,0 +1,38 @@
+{
+  "name": "animatediff",
+  "version": "1.0.0",
+  "description": "AnimateDiff repository based on the official implementation",Tweaked By 3rdevai
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnimateDiff"
+  },
+  "keywords": [
+    "AnimateDiff",
+    "Text-to-Image Diffusion",
+    "Image Generation"
+  ],
+  "author": "Yuwei Guo, Ceyuan Yang, Anyi Rao, Yaohui Wang, Yu Qiao, Dahua Lin, Bo Dai",Tweaked By 3rdevai
+  "license": "MIT",
+  "dependencies": {
+    "python": "^3.10.9",
+    "tensorflow": "^2.6.0",
+    "torch": "^1.9.1",
+    "numpy": "^1.21.2",
+    "opencv": "^4.5.3"
+  },
+  "scripts": {
+    "start": "python app.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "devDependencies": {},
+  "main": "app.js",
+  "engines": {
+    "vercel": "^1.0.0"
+  },
+  "vercel": {
+    "functions": "api/"
+  }
+}
