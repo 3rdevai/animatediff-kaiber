@@ -1,7 +1,7 @@
 {
   "name": "animatediff",
   "version": "1.0.0",
-  "description": "AnimateDiff repository based on the official implementation",Tweaked By 3rdevai
+  "description": "AnimateDiff repository based on the official implementation Tweaked By 3rdevai",
   "repository": {
     "type": "git",
     "url": "https://github.com/AnimateDiff"
@@ -11,7 +11,7 @@
     "Text-to-Image Diffusion",
     "Image Generation"
   ],
-  "author": "Yuwei Guo, Ceyuan Yang, Anyi Rao, Yaohui Wang, Yu Qiao, Dahua Lin, Bo Dai",Tweaked By 3rdevai
+  "author": "Yuwei Guo, Ceyuan Yang, Anyi Rao, Yaohui Wang, Yu Qiao, Dahua Lin, Bo Dai Tweaked by 3rdevai",
   "license": "MIT",
   "dependencies": {
     "python": "^3.10.9",
